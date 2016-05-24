@@ -138,7 +138,7 @@ video#bgvid2 {
 #body > div {
 	margin: 0 auto;
 	padding: 0;
-	width: 960px;
+	width: 100%;
 }
 #body > div img {
 	border: 2px solid #292929;
@@ -148,7 +148,7 @@ video#bgvid2 {
 #body > div .article {
 	margin: 0 auto;
 	padding: 30px 30px 0;
-	width: 560px;
+	width: auto 0;
 }
 #body > div .article h2 {
 	font-family: "Arial Black", Gadget, sans-serif;
